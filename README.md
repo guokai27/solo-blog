@@ -10,8 +10,9 @@ G&K 的小站
 
 ### 最新
 
+* [NCE开放可编程培训交流](http://www.guokaiblog.cn/huaweinoc)
+* [lunix（ubuntu）开机自启动服务及docker自启动服务（tomcat）](http://www.guokaiblog.cn/articles/2019/09/07/1567825770186.html)
 * [lunix常用命令](http://www.guokaiblog.cn/articles/2019/08/07/1565142316743.html)
-* [我在 GitHub 上的开源项目](http://www.guokaiblog.cn/my-github-repos)
 * [centos主从数据库部署](http://www.guokaiblog.cn/articles/2019/08/05/1564987885681.html)
 * [python学习Day15-时间操作](http://www.guokaiblog.cn/articles/2019/08/02/1564759597693.html)
 * [python学习Day14-类](http://www.guokaiblog.cn/articles/2019/08/02/1564759567216.html)
