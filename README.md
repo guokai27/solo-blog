@@ -10,6 +10,7 @@ G&K 的小站
 
 ### 最新
 
+* [docker迁移镜像](http://www.guokaiblog.cn/articles/2019/09/10/1568107314850.html)
 * [NCE开放可编程培训交流](http://www.guokaiblog.cn/huaweinoc)
 * [lunix（ubuntu）开机自启动服务及docker自启动服务（tomcat）](http://www.guokaiblog.cn/articles/2019/09/07/1567825770186.html)
 * [lunix常用命令](http://www.guokaiblog.cn/articles/2019/08/07/1565142316743.html)
