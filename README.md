@@ -10,6 +10,7 @@ G&K 的小站
 
 ### 最新
 
+* [lunix挂载共享文件夹](http://www.guokaiblog.cn/articles/2019/09/19/1568874039122.html)
 * [Python生成可执行文件exe](http://www.guokaiblog.cn/articles/2019/09/18/1568779518521.html)
 * [docker迁移镜像](http://www.guokaiblog.cn/articles/2019/09/10/1568107314850.html)
 * [NCE开放可编程培训交流](http://www.guokaiblog.cn/huaweinoc)
@@ -29,11 +30,11 @@ G&K 的小站
 * [python学习Day5-字符串操作](http://www.guokaiblog.cn/articles/2019/08/02/1564759239450.html)
 * [Python学习Day4-循环结构](http://www.guokaiblog.cn/articles/2019/08/02/1564759175820.html)
 * [Python学习Day3-分支结构](http://www.guokaiblog.cn/articles/2019/08/02/1564759132271.html)
-* [Python学习Day2-语言元素](http://www.guokaiblog.cn/articles/2019/08/02/1564759077321.html)
 
 ### 热门
 
 * [python学习Day01-环境搭建](http://www.guokaiblog.cn/articles/2019/08/02/1564758953535.html)
+* [Python学习Day2-语言元素](http://www.guokaiblog.cn/articles/2019/08/02/1564759077321.html)
 
 
 
