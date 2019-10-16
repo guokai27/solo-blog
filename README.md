@@ -33,8 +33,8 @@ G&K 的小站
 
 ### 热门
 
-* [python学习Day01-环境搭建](http://www.guokaiblog.cn/articles/2019/08/02/1564758953535.html)
 * [Python学习Day3-分支结构](http://www.guokaiblog.cn/articles/2019/08/02/1564759132271.html)
+* [python学习Day01-环境搭建](http://www.guokaiblog.cn/articles/2019/08/02/1564758953535.html)
 * [Python学习Day2-语言元素](http://www.guokaiblog.cn/articles/2019/08/02/1564759077321.html)
 
 
